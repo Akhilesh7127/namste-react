@@ -1,0 +1,5 @@
+package.json is an configuration file of npm
+main dependency is bundler which bundles our html,css and js file to minfied ,cached verison some known bundlers are web pack ,vite and parcel etc
+npx create react app uses web pack bundler
+two types of dependencies that we can install dev dependencies and normal dependencies
+dev dependencies are needed in development purpose
